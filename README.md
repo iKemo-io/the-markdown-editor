@@ -52,8 +52,8 @@ Beautiful light and dark modes with smooth transitions. Your preference is saved
 **⌨️ Keyboard Shortcuts**
 Built-in productivity shortcuts including `Cmd/Ctrl + K` for links, `Cmd/Ctrl + F` for search, plus all standard Monaco Editor commands for efficient editing.
 
-**📋 One-Click HTML Export**
-Copy rendered HTML to your clipboard instantly — perfect for publishing to blogs, CMSs, or documentation platforms.
+**📋 One-Click Copy**
+Copy your Markdown content to clipboard instantly — perfect for backing up or sharing your work.
 
 **💾 Auto-Save**
 Your work is automatically saved to browser local storage. Close the tab, restart your browser, or experience a crash — your content is always preserved.
@@ -88,7 +88,7 @@ Complete support for GitHub-Flavored Markdown (GFM) including tables, task lists
 | **Sync Scroll Toggle** | Keep editor and preview scrolling together (toggle in top bar) |
 | **Help Button (?)** | View keyboard shortcuts and feature guide |
 | **Theme Toggle** | Switch between light and dark modes |
-| **Copy HTML** | Export rendered HTML to clipboard |
+| **Copy Markdown** | Copy your Markdown content to clipboard |
 | **Reset** | Clear content and start fresh |
 | **Divider** | Drag to resize editor and preview panes |
 
