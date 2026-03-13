@@ -177,7 +177,7 @@ Special thanks to the open-source community and these incredible projects:
 
 **Built with ❤️ by [iKemo](https://ikemo.io/?utm_source=markdownrepo&utm_medium=referral&utm_campaign=site_link)**
 
-Copyright © 2024 **iKemo**. All Rights Reserved.
+Copyright © 2025 **iKemo**. All Rights Reserved.
 
 *Making Markdown editing effortless*
 
